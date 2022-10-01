@@ -4,9 +4,9 @@ this for learn react redux
 
 ## Requirements
 
-redux (state menagement core)
-react redux
-redux thunx (as async middleware)
+- redux (state menagement core)
+- react redux
+- redux thunx (as async middleware)
 
 ## installation
 
